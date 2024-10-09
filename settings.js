@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348024906596"
+global.ownernomer = "923362377416"
 global.ownername = "🃏Joker🃏"
 global.ytname = "YT: Resonex"
 global.socialm = "GitHub: Joker-Reincarnated"
@@ -14,14 +14,14 @@ global.botname = '☣️ Toxic MD' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🃏Joker🃏 \n\nContact: +2348024906596'
+global.author = '🃏Joker🃏 \n\nContact: +923362377416'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "🃏Joker🃏"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaN8F9MG8l5KA9Jx0Q0X'
+//global.link = 'https://whatsapp.com/channel/0029VaN8F9MG8l5KA9Jx0Q0X'
 
 //custom prefix
 global.prefa = ['']
@@ -32,7 +32,7 @@ global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
-global.anti92 = true //auto block +92 
+global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 
 //menu type 
